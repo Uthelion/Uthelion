@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Uthelion
 - 👀 I’m interested in tech & music
-- 🌱 I’m currently learning linux & bash scripting,  docker & python, java
+- 🌱 I’m learning linux & bash scripting,  docker & python, java
+- Mainfocus is  python :-)
 - 💞️ I’m looking to collaborate on small projects to gain more practice
 - 📫 How to reach me ...TBA
 
